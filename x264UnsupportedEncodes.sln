@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "x264UnsupportedEncodes", "x264UnsupportedEncodes.csproj", "{79360C23-C5A6-4307-869C-7D279C861C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79360C23-C5A6-4307-869C-7D279C861C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79360C23-C5A6-4307-869C-7D279C861C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79360C23-C5A6-4307-869C-7D279C861C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79360C23-C5A6-4307-869C-7D279C861C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD8396A-B91C-4D04-BACC-BA208B94A2C2}
+	EndGlobalSection
+EndGlobal
